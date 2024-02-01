@@ -1,0 +1,2 @@
+# Students-Performance-Prediction-For-Increasing-Retention-At-institutions
+EDA was performed on the dataset of students invvestigating various factors and their correlation that affects their performance, based upon which a predictive model was developed that can predict performance of students. These insights are very crucial for institutions, allowing them to strategically address and help low performing students.
